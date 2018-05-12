@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40410
     wikipedia: http://sv.wikipedia.org/wiki/Hjalmar_%C3%96hrwall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40094#Renlighet-och-frisk-luft
 gutenberg_issued: '2012-06-27'
 gutenberg_type: Text
 identifiers:
